@@ -1,0 +1,30 @@
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.vbproj.AssemblyReference.cache
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.AssemblyInfoInputs.cache
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.AssemblyInfo.vb
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.vbproj.CoreCompileInputs.cache
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.exe
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.deps.json
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.runtimeconfig.json
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.dll
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.pdb
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.dll
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\refint\vb_final_project.dll
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.pdb
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.genruntimeconfig.cache
+D:\my-vbnet-projects\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\ref\vb_final_project.dll
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.exe
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.deps.json
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.runtimeconfig.json
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.dll
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\bin\Debug\net6.0\vb_final_project.pdb
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.vbproj.AssemblyReference.cache
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.AssemblyInfoInputs.cache
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.AssemblyInfo.vb
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.vbproj.CoreCompileInputs.cache
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.dll
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\refint\vb_final_project.dll
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.pdb
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\vb_final_project.genruntimeconfig.cache
+D:\my_college_Herzing\sectionD-Visual_basic.net-2022\final project\vb_final_project_sn\vb_final_project_sn\vb_final_project\obj\Debug\net6.0\ref\vb_final_project.dll
